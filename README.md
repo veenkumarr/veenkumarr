@@ -12,17 +12,7 @@
 
 <br>
 
-```
-  ₿ ⟠ ◎ 🧠 ⬡ ₿ ⟠ ◎ 🧠 ⬡ ₿ ⟠ ◎ 🧠 ⬡ ₿ ⟠ ◎ 🧠 ⬡
-```
-
-<br>
-
 **`> gm. i build things with my colleague claude.`**
-
-**`> crypto × ai — the only two things that matter.`**
-
-<br>
 
 ```diff
 + few understand.
@@ -30,17 +20,6 @@
 - nfa, dyor.
 ! ship fast. prompt faster.
 # trust the code, not the team.
-```
-
-<br>
-
-```
-  ╔═══════════════════════════════════════════════╗
-  ║                                               ║
-  ║   not your keys, not your crypto.             ║
-  ║   not your weights, not your model.           ║
-  ║                                               ║
-  ╚═══════════════════════════════════════════════╝
 ```
 
 <br>
