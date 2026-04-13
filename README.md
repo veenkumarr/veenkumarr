@@ -19,7 +19,6 @@
 + my co-founder is an llm.
 - nfa, dyor.
 ! ship fast. prompt faster.
-# trust the code, not the team.
 ```
 
 <br>
